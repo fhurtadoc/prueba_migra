@@ -14,7 +14,8 @@ CREATE TABLE consulta  (
 
 );
 
-
+CREATE DATABASE postgres; 
+USE postgres;
 CREATE TABLE ingreso (
 
     id INT (200)  auto_increment NOT NULL, 
