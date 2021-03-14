@@ -1,0 +1,1 @@
+# escripts en PHP que permiten efectuar una migracion de una base de datos SQL a otra con una variacion en cuanto a las columnas y las filas, mientras que en una se almacenan en columnas en la otra se almacenan en filas 
